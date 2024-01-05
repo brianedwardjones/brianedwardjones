@@ -1,4 +1,10 @@
+<div id="header align="center">
+    <img src="https://media.giphy.com/media/26hiu3mZVquuykwhy/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋
+### :construction_worker: turned :technologist:
+I am a student learning frontend and backend programming for building web applications.
 
 <!--
 **brianedwardjones/brianedwardjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
