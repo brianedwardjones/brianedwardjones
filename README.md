@@ -1,6 +1,7 @@
-<div id="header align="center">
-    <img src="https://media.giphy.com/media/26hiu3mZVquuykwhy/giphy.gif" width="100"/>
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/26hiu3mZVquuykwhy/giphy.gif" width="300"/>
 </div>
+
 
 ### Hi there 👋
 ### :construction_worker: turned :technologist:
