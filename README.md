@@ -4,7 +4,7 @@
 
 
 ### Hi there 👋
-### :construction_worker: turned :technologist:
+
 I am a student learning frontend and backend programming for building web applications.
 
 <!--
